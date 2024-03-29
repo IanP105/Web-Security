@@ -1,5 +1,5 @@
 # Web-Security
-![Network Diagram](https://github.com/IanP105/Web-Security/doc/diagram.png?raw=true)
+![Network Diagram](https://github.com/IanP105/Web-Security/doc/diagram.png)
 <br/>
 The provided web server contained multiple serious security vulnerabilities.  My additions to the files included in this repo are an attempt to mitigate the issues.<br/>
 <br/>
